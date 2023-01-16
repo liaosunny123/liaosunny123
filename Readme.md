@@ -22,5 +22,18 @@ Hello, World!
 - epicmo@qq.com：如果有一般性问题，或是学术上的问题，请使用本地址。
 # 状态
 我热衷于开源社区，并尝试Contribute.  
-<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=liaosunny123&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
- <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=liaosunny123&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
+
+我使用的:  
+![tools](https://skillicons.dev/icons?i=cloudflare,discord,django,git,github,githubactions,idea,kubernetes,md,neovim,nginx,stackoverflow,visualstudio,vscode)  
+
+我的技能:  
+![Skills](https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,c,cs,cpp,cloudflare,cmake,css,discord,docker,dotnet,electron,figma,flutter,go,html,java,js,kotlin,linux,mysql,nextjs,php,powershell,py,qt,react,redis,rust,spring,ts,vite,vue,wasm,sqlite)  
+
+我的状态:  
+
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=liaosunny123&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=liaosunny123&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Github Stats" height="185px">
+</a>
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=liaosunny123&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=liaosunny123&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Used Langs" height="185px">
+</a>
