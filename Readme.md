@@ -22,4 +22,5 @@ Hello, World!
 - epicmo@qq.com：如果有一般性问题，或是学术上的问题，请使用本地址。
 # 状态
 我热衷于开源社区，并尝试Contribute.  
-![EpicMo's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=liaosunny123&show_icons=true)![Mostly used language](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=liaosunny123&layout=compact)  
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=liaosunny123&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
+ <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=liaosunny123&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
