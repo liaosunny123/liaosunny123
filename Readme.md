@@ -27,7 +27,7 @@ Hello, World!
 ![tools](https://skillicons.dev/icons?i=cloudflare,discord,django,git,github,githubactions,idea,kubernetes,md,neovim,nginx,stackoverflow,visualstudio,vscode)  
 
 我的技能:  
-![Skills](https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,c,cs,cpp,cloudflare,cmake,css,discord,docker,dotnet,electron,figma,flutter,go,html,java,js,kotlin,linux,mysql,nextjs,php,powershell,py,qt,react,redis,rust,spring,ts,vite,vue,wasm,sqlite)  
+![Skills](https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,c,cs,cpp,cloudflare,cmake,css,docker,dotnet,electron,figma,flutter,go,html,java,js,kotlin,linux,mysql,nextjs,php,powershell,py,qt,react,redis,rust,spring,ts,vite,vue,wasm,sqlite)  
 
 我的状态:  
 
