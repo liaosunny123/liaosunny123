@@ -39,7 +39,7 @@ Hello, World!
   </tr>
   <tr>
     <td colspan=2>
-      <img alt="EpicMo's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=liaosunny123&hide_border=true&layout=compact&theme=transparent&custom_title=Wakatime%20Stats%20This%20Week" align="center" />
+      <img alt="EpicMo's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=epicmo&hide_border=true&layout=compact&theme=transparent&custom_title=Wakatime%20Stats%20This%20Week" align="center" />
     </td>
   </tr>
 </table>
