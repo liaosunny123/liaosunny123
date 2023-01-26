@@ -1,4 +1,3 @@
-Hello, World!
 # About Me
 - I'm a Grade First student of **WHU** (WuHan University), pursuing a bachelor's degree.  
 - I am now working at personal development, and I want to set up the Sorux Organization to create the application what we love.If you have the same thought to create some cool apps, please considering to join us.  
@@ -13,11 +12,11 @@ Now, I am working for **Sorux Organization**. As for personal project, I am cont
 - AI and machine learning  
 - Web Security  
 - Design a new programe  language  
-# 联系方式
+# Reach Me
 - yimo@epicmo.cn：For issues about the services I provide.  
 - epicmo@qq.com：For other issues.  
-# 状态
-我热衷于开源社区，并尝试Contribute.  
+# State
+
 I love the community of open source and try to contribute.  
 
 What I am using:  
