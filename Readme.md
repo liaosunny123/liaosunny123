@@ -1,7 +1,7 @@
 # About Me
 - I'm a Grade First student of **WHU** (WuHan University), pursuing a bachelor's degree.  
 - I am now working at personal development, and I want to set up the Sorux Organization to create the application what we love.If you have the same thought to create some cool apps, please considering to join us.  
-- I have basic knowledge of **C++**,**Java**,**C#**,**Rust**,**javascript**,**Dart**,and I tryt to learn about **GoLang** and **Python**.
+- I have basic knowledge of **C++**,**Java**,**C#**,**Rust**,**javascript**,**Dart**,and I tryt to learn about **Go** and **Python**.
 - I have basic knowledge of **Mysql**, **NoSQL** (MongoDB,Redis,etc.).
 - I have basic knowledge of programing pattern.  
 - I know some framework, such as **Vue.js**,**React**,**Flutter**,**Asp.net**,**Spring** and etc.
