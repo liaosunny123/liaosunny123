@@ -1,12 +1,12 @@
 # About Me
 - I'm a Grade First student of **WHU** (WuHan University), pursuing a bachelor's degree.  
 - I am now working at personal development, and I want to set up the Sorux Organization to create the application what we love.If you have the same thought to create some cool apps, please considering to join us.  
-- I have basic knowledge of **C++**，**Java**，**C#**，**Rust**，**javascript**，**Dart**，and I tryt to learn about **Go** and **Python**.
+- I have basic knowledge of **C++**，**Java**，**C#**，**Rust**，**javascript**，**Dart**，**Kotlin** and I tryt to learn about **Go** and **Python**.
 - I have basic knowledge of **Mysql**, **NoSQL** (MongoDB,Redis,etc.).
 - I have basic knowledge of programing pattern.  
-- I know some frameworks, such as **Vue.js**,**Flutter**,**Asp.net**,**Spring** and etc.
+- I know some frameworks, such as **Vue.js**，**Flutter**，**Asp.net**，**Spring**，**Android Compose**，**WPF** (winform aslo :) ) and etc. As for UI framework, I maybe use many of them.  
 # Now  
-Now, I am working for **Sorux Organization**. As for personal project, I am contributing to my project **DynEmit** and **Sorux-Framework**.  
+Now, I am working for **Sorux Organization**. As for personal project, I am contributing to my project **DynEmit**，**Sorux-Framework** and **GenericMusicClient**.  
 # Interest  
 - Architecture  
 - Programe Developer  
