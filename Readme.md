@@ -1,13 +1,13 @@
 # About Me
-![](https://komarev.com/ghpvc/?username=liaosunny123&style=flat-square)
+![Flat](https://komarev.com/ghpvc/?username=liaosunny123&style=flat-square)
 - I'm a Grade First student of **WHU** (WuHan University), pursuing a bachelor's degree.  
 - I am now working at personal development, and I want to set up the Sorux Organization to create the application what we love.If you have the same thought to create some cool apps, please considering to join us.  
-- I have basic knowledge of **C/C++**，**Java**，**C#**(Commonly)，**Rust**，**JavaScript**，**Dart**，**Kotlin** and I try to learn about **Go** and **Python**.
-- I have basic knowledge of **Mysql**, **NoSQL** (MongoDB,Redis,etc.).
-- I have basic knowledge of programing pattern.  
-- I know some frameworks, such as **Vue.js**，**Flutter**，**Asp.Net**，**Spring**，**Android Compose**，**WPF** (winform aslo :) ) and etc. As for UI framework, I maybe use many of them.  
+- I have basic knowledge of **C/C++**, **Java**, **C#**(Commonly), **Rust**, **JavaScript**, **Dart**, **Kotlin**, **Go** and **Python**, and I am trying to learn about haskell.  
+- I have basic knowledge of some mainstream systems, such as Redis, Mysql, RabbitMQ, ELK, K8S, etc. 
+- I have basic knowledge of programing pattern, loving design the architecture of the system.  
+- I know some frameworks, such as **Vue.js**, **Flutter**, **Asp.Net**, **Spring**, **Android Compose**, **WPF** (winform aslo :) ) and etc. As for UI framework, I maybe use many of them.  
 # Now  
-Now, I am working for **Sorux Organization**. As for personal project, I am contributing to my project **DynEmit**，**SoruxBot** and **GenericMusicClient**.  
+Now, I am trying to study deeply. Also, I contribute to some projects, such as **SoruxBot**, **NetSnap**,etc.
 # Interest  
 - Architecture  
 - Programe Developer  
@@ -22,10 +22,10 @@ Now, I am working for **Sorux Organization**. As for personal project, I am cont
 I love the community of open source and try to contribute.  
 
 What I am using:  
-![tools](https://skillicons.dev/icons?i=cloudflare,discord,django,git,github,githubactions,idea,kubernetes,md,neovim,nginx,stackoverflow,visualstudio,vscode)  
+![tools](https://skillicons.dev/icons?i=cloudflare,discord,django,git,github,gitlab,grafana,githubactions,idea,md,neovim,stackoverflow,visualstudio,vscode,postman)  
 
 My Skills:  
-![Skills](https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,c,cs,cpp,cloudflare,cmake,css,docker,dotnet,electron,figma,flutter,go,html,java,js,kotlin,linux,mysql,nextjs,php,powershell,py,qt,react,redis,rust,spring,ts,vite,vue,wasm,sqlite)  
+![Skills](https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,c,cs,cpp,cmake,css,dart,django,docker,dotnet,electron,figma,flutter,go,gradle,html,haskell,java,js,kafka,kotlin,kubernetes,linux,mysql,nextjs,nginx,php,powershell,postgres,py,pytorch,qt,react,rabbitmq,redis,regex,rust,spring,ts,vite,vue,wasm,sqlite,selenium)  
 
 My States:  
 
