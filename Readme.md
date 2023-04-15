@@ -25,7 +25,7 @@ What I am using:
 ![tools](https://skillicons.dev/icons?i=cloudflare,discord,django,git,github,gitlab,grafana,githubactions,idea,md,neovim,stackoverflow,visualstudio,vscode,postman)  
 
 My Skills:  
-![Skills](https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,c,cs,cpp,cmake,css,dart,django,docker,dotnet,electron,figma,flutter,go,gradle,html,haskell,java,js,kafka,kotlin,kubernetes,linux,mysql,nextjs,nginx,php,powershell,postgres,py,pytorch,qt,react,rabbitmq,redis,regex,rust,spring,ts,vite,vue,wasm,sqlite,selenium)  
+![Skills](https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,c,cs,cpp,cmake,css,dart,django,docker,dotnet,electron,figma,flutter,go,gradle,html,haskell,java,js,kafka,kotlin,kubernetes,linux,mysql,nextjs,nginx,php,powershell,postgres,py,pytorch,qt,react,rabbitmq,redis,regex,rust,spring,ts,vite,vue,wasm,sqlite,selenium,fastapi)  
 
 My States:  
 [![wakatime](https://wakatime.com/badge/user/eead0727-a7aa-40dd-a431-91afa9b6535f.svg)](https://wakatime.com/@epicmo)<br>
