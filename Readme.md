@@ -7,7 +7,7 @@
 - I have basic knowledge of programing pattern, loving design the architecture of the system.  
 - I know some frameworks, such as **Vue.js**, **Flutter**, **Asp.Net**, **Spring**, **Android Compose**, **WPF** (winform aslo :) ) and etc. As for UI framework, I maybe use many of them.  
 # Now  
-Now, I am trying to study deeply. Also, I contribute to some projects, such as **SoruxBot**, **NetSnap**,etc.
+Now, I am trying to study deeply. Also, I contribute to some projects, such as **SoruxBot**, **Netife**,etc.
 # Interest  
 - Architecture  
 - Programe Developer  
