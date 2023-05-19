@@ -40,7 +40,7 @@ My States:
   </tr>
   <tr>
     <td colspan=2>
-      <img alt="EpicMo's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=epicmo&hide_border=true&layout=compact&theme=transparent&custom_title=WorkTimeThisWeek" align="center"/>
+      <img alt="EpicMo's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=epicmo&hide_border=true&layout=compact&theme=transparent&custom_title=WorkTimeThisWeek&range=last_7_days" align="center"/>
     </td>
   </tr>
 </table>
