@@ -7,7 +7,7 @@
 - I have basic knowledge of programing pattern, loving design the architecture of the system.  
 - I know some frameworks, such as **Vue.js**, **Flutter**, **Asp.Net**, **Spring**, **Android Compose**, **WPF** (winform aslo :) ) and etc. As for UI framework, I maybe use many of them.  
 # Now  
-Now, I am trying to study deeply. Also, I contribute to some projects, such as **SoruxBot**, **Netife**,etc.
+Now, I am trying to study deeply. Also, I contribute to some projects, such as **SoruxBot**, **Netife**, and many libs.  
 # Interest  
 - Architecture  
 - Programe Developer  
@@ -17,6 +17,7 @@ Now, I am trying to study deeply. Also, I contribute to some projects, such as *
 # Reach Me
 - yimo@epicmo.cn：For issues about the services I provide.  
 - epicmo@qq.com：For other issues.  
+- Blog: [EpicMoHome](https://www.epicmo.cn)  
 # State
 
 I love the community of open source and try to contribute.  
