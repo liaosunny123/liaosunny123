@@ -8,7 +8,7 @@
 - I know some frameworks, such as **Vue.js**, **Flutter**, **Asp.Net**, **Spring**, **Android Compose**, **WPF** (winform aslo :) ) and etc. As for UI framework, I maybe use many of them.  
 # Now  
 Now, I am trying to study deeply. Also, I contribute to some projects, in the field of **Tools**, **Bot**, **LLM**, many libs and so on.  
-In organization, I establish **SoruxBot** to construct a cross-platform general communicating bot framework, **Netife** to construct a new Web Package Sniff and Editor framework, **WHUCAO** for campus open source communicating and so on.  
+In organization, I establish **SoruxBot** to construct a cross-platform general communicating bot framework, **Netife** to construct a new Web Package Sniff and Editor framework, **WHUCodingAndOpen** for campus open source communicating and so on.  
 # Interest  
 - Architecture  
 - Programe Developer  
@@ -16,17 +16,16 @@ In organization, I establish **SoruxBot** to construct a cross-platform general 
 - Web Security  
 - Design a new programe language  
 # Reach Me
-- yimo@epicmo.cn：For issues about the services I provide.  
-- epicmo@qq.com：For other issues.  
+- epicmocn@gmail.com：For connecting.   
 - Blog: [EpicMoHome](https://www.epicmo.cn)  
 # State
 
 I love the community of open source and try to contribute.  
 
-What I am using:  
+Some tools that I am using:  
 ![tools](https://skillicons.dev/icons?i=cloudflare,discord,django,git,github,gitlab,grafana,githubactions,idea,md,neovim,stackoverflow,visualstudio,vscode,postman)  
 
-My Skills:  
+Some icons that I am trying to learn about:  
 ![Skills](https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,c,cs,cpp,cmake,css,dart,django,docker,dotnet,electron,figma,flutter,go,gradle,html,haskell,java,js,kafka,kotlin,kubernetes,linux,mysql,nextjs,nginx,php,powershell,postgres,py,pytorch,qt,react,rabbitmq,redis,regex,rust,spring,ts,vite,vue,wasm,sqlite,selenium,fastapi)  
 
 My States:  
