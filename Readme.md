@@ -5,7 +5,7 @@
 - I have basic knowledge of **C/C++**, **Java**, **C#**(Commonly), **Rust**, **JavaScript**, **Dart**, **Kotlin**, **Go** and **Python**, and I am trying to learn about haskell.  
 - I have basic knowledge of some mainstream systems, such as Redis, Mysql, RabbitMQ, ELK, K8S, etc. 
 - I have basic knowledge of programing pattern, loving design the architecture of the system.  
-- I know some frameworks, such as **Vue.js**, **Flutter**, **Asp.Net**, **Spring**, **Android Compose**, **WPF** (winform aslo :) ) and etc. As for UI framework, I maybe use many of them.  
+- I know some frameworks, such as **Asp.Net**, **Spring**, **WPF** (winform aslo :) ) and etc.
 # Now  
 Now, I am trying to study deeply. Also, I contribute to some projects, in the field of **Tools**, **Bot**, **LLM**, many libs and so on.  
 In organization, I establish **SoruxBot** to construct a cross-platform general communicating bot framework, **Netife** to construct a new Web Package Sniff and Editor framework, **WHUCodingAndOpen** for campus open source communicating, **IRSS** to construct a cross platform information integration system and so on.  
