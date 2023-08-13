@@ -1,6 +1,6 @@
 # About Me
 ![Flat](https://komarev.com/ghpvc/?username=liaosunny123&style=flat-square)
-- I'm a Grade First student of **WHU** (WuHan University), pursuing a bachelor's degree.  
+- I'm a Grade Second student of **WHU** (WuHan University), pursuing a bachelor's degree.  
 - I am now working at personal development, and I want to set up the Sorux Organization to create the application what we love.If you have the same thought to create some cool apps, please considering to join us.  
 - I have basic knowledge of **C/C++**, **Java**, **C#**(Commonly), **Rust**, **JavaScript**, **Kotlin**, **Go** and **Python**, and I am trying to learn about haskell.  
 - I have basic knowledge of some mainstream systems, such as Redis, Mysql, RabbitMQ, ELK, K8S, etc. 
