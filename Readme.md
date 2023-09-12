@@ -8,8 +8,13 @@
 - I have basic knowledge of programing pattern, loving design the architecture of the system.  
 - I know some frameworks, such as **Asp.Net**, **Spring**, **WPF** (winform aslo :) ) and etc.
 # Now  
-Now, I am trying to study deeply. Also, I contribute to some projects, in the field of **Tools**, **Bot**, **LLM**, many libs and so on.  
-In organization, I establish **SoruxBot** to construct a cross-platform general communicating bot framework, **Netife** to construct a new Web Package Sniff and Editor framework, **WHUCodingAndOpen** for campus open source communicating, **IRSS** to construct a cross platform information integration system and so on.  
+- Trying to study hard in WHU.  
+- [SoruxBot](https://github.com/SoruxBot/SoruxBot): Creating a cross platform's bot framework, which has a micro service architecture.  
+- [WHUCodingAndOpen](https://github.com/WHUCodingAndOpen/whucao): Trying to creating a community for students to share content freely.
+- [Netife](https://github.com/Netife): Trying to creating a tools for web security, which targeted at Fiddler Everywhere.
+- [GuGoOrg](https://github.com/GuGoOrg): Trying to creating some funny micro services.
+- [WHUnicorn](https://github.com/WHUnicorn): Trying to creating some tools for WHU's student.
+Also, I am trying to contribute to open source projects and participate in some commercial projects.  
 # Interest  
 - Architecture  
 - Programe Developer  
