@@ -28,11 +28,8 @@ Also, I am trying to contribute to open source projects and participate in some 
 
 I love the community of open source and try to contribute.  
 
-Some tools that I am using:  
-![tools](https://skillicons.dev/icons?i=cloudflare,discord,django,git,github,gitlab,grafana,githubactions,idea,md,neovim,stackoverflow,visualstudio,vscode,postman)  
-
-Some icons that I am trying to learn about:  
-![Skills](https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,c,cs,cpp,cmake,css,dart,django,docker,dotnet,electron,figma,flutter,go,gradle,html,haskell,java,js,kafka,kotlin,kubernetes,linux,mysql,nextjs,nginx,php,powershell,postgres,py,pytorch,qt,react,rabbitmq,redis,regex,rust,spring,ts,vite,vue,wasm,sqlite,selenium,fastapi)  
+Some icons about the skills of mine and the tools that I am using:  
+![icons](https://skillicons.dev/icons?i=androidstudio,arduino,aws,azure,bash,blender,c,cs,cpp,cloudflare,cmake,css,dart,discord,bots,django,docker,dotnet,electron,express,fastapi,figma,flutter,git,github,gitlab,go,gradle,grafana,haskell,html,idea,ipfs,java,js,jenkins,jquery,kafka,kotlin,ktor,kubernetes,latex,linux,lua,md,matlab,maven,mongodb,mysql,nextjs,nginx,nodejs,ps,php,postman,powershell,prometheus,py,pytorch,qt,rabbitmq,react,redis,redux,regex,rust,spring,sqlite,supabase,selenium,tailwind,tauri,ts,unity,vercel,visualstudio,vite,vscode,vue,webpack,wordpress)  
 
 My States:  
 [![wakatime](https://wakatime.com/badge/user/eead0727-a7aa-40dd-a431-91afa9b6535f.svg)](https://wakatime.com/@epicmo)<br>
