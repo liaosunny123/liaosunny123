@@ -10,8 +10,6 @@
 # Now  
 - Trying to study hard.  
 - [SoruxBot](https://github.com/SoruxBot/SoruxBot): Creating a cross platform's bot framework, which has a micro service architecture.  
-- [WHUCodingAndOpen](https://github.com/WHUCodingAndOpen/whucao): Trying to creating a community for students to share content freely.
-- [OpenWHU](https://github.com/openwhu): Trying to build a open community for more people to seek course resources easily.  
 - [Netife](https://github.com/Netife): Trying to creating a tools for web security, which targeted at Fiddler Everywhere.
 - [GuGoOrg](https://github.com/GuGoOrg): Trying to creating some funny micro services.
 Also, I am trying to contribute to open source projects and participate in some commercial projects.  
