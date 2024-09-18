@@ -1,7 +1,7 @@
 # About Me
 ![Flat](https://komarev.com/ghpvc/?username=liaosunny123&style=flat-square)  
 "一沧海，一蜉蝣，一生没时间懵懂。不放手，不罢休，像猛兽冲突牢笼。"  
-- I'm a Grade Second student of WHU, pursuing a bachelor's degree.  
+- I'm a Grade Third student of WHU, pursuing a bachelor's degree.  
 - I am now working at personal development, and I want to set up the Sorux Organization to create the application what we love.If you have the same thought to create some cool apps, please considering to join us.  
 - I have basic knowledge of **C/C++**(Commonly), **Java**, **C#**(Commonly), **Rust**, **JavaScript**, **Kotlin**, **Go**(Commonly) and **Python**, and I am trying to learn about haskell.  
 - I have basic knowledge of some mainstream systems, such as Redis, Mysql, RabbitMQ, ELK, K8S, etc. 
@@ -9,7 +9,7 @@
 - I know some frameworks, such as **Asp.Net**, **Spring**, **WPF** (winform aslo :) ) and etc.
 # Now  
 - Trying to study hard.  
-- [SoruxBot](https://github.com/SoruxBot/SoruxBot): Creating a cross platform's bot framework, which has a micro service architecture.  
+- [SoruxBotV2](https://github.com/SoruxBot-v2/SoruxBot): Creating a cross platform's bot framework, which has a micro service architecture.  
 - [Netife](https://github.com/Netife): Trying to creating a tools for web security, which targeted at Fiddler Everywhere.  
 - [GuGoOrg](https://github.com/GuGoOrg): Trying to creating some funny micro services.  
 - [SoruxGPT](https://github.com/liaosunny123/Sorux-GPT-Panel): Trying to creating a web application for sharing GPT web, API and MidJourney API.  
