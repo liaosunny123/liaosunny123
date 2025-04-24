@@ -15,11 +15,11 @@
 - [SoruxGPT](https://github.com/liaosunny123/Sorux-GPT-Panel): Trying to creating a web application for sharing GPT web, API and MidJourney API.  
 Also, I am trying to contribute to open source projects and participate in some commercial projects.  
 # Interest  
-- Architecture  
-- Programe Developer  
-- AI and Machine Learning  
-- Web Security  
-- Design a new programe language  
+- Program Architecture
+- Federated Learning
+- LLM FT/RL
+- Edge Computing
+- MLSys
 # Reach Me
 - epicmocn@gmail.com：For connecting.   
 - Blog: [EpicMoHome](https://www.epicmo.cn)  
