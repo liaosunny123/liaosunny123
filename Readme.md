@@ -7,8 +7,9 @@
 - I have basic knowledge of some mainstream systems, such as Redis, Mysql, RabbitMQ, ELK, K8S, etc. 
 - I have basic knowledge of programing pattern, loving design the architecture of the system.  
 - I know some frameworks, such as **Asp.Net**, **Spring**, **WPF** (winform aslo :) ) and etc.
-# Now  
-- Trying to study hard.  
+# Research
+- New Research home page is under construct.
+# Project  
 - [SoruxBotV2](https://github.com/SoruxBot-v2/SoruxBot): Creating a cross platform's bot framework, which has a micro service architecture.  
 - [Netife](https://github.com/Netife): Trying to creating a tools for web security, which targeted at Fiddler Everywhere.  
 - [GuGoOrg](https://github.com/GuGoOrg): Trying to creating some funny micro services.  
