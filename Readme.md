@@ -15,16 +15,22 @@ I am dedicated to building efficient and reliable distributed deep learning fram
 - Deep Learning Frameworks: Developing high-performance and reliable distributed training and inference systems.
 - Edge Computing & On-Device LLM Optimization: Enhancing the efficiency of LLM inference on edge devices and resource-constrained environments.
 
-# Project  
-- [SoruxBotV2](https://github.com/SoruxBot-v2/SoruxBot): Creating a cross platform's bot framework, which has a micro service architecture.  
-- [Netife](https://github.com/Netife): Trying to creating a tools for web security, which targeted at Fiddler Everywhere.  
-- [GuGoOrg](https://github.com/GuGoOrg): Trying to creating some funny micro services.  
-- [SoruxGPT](https://github.com/liaosunny123/Sorux-GPT-Panel): Trying to creating a web application for sharing GPT web, API and MidJourney API.  
-Also, I am trying to contribute to open source projects and participate in some commercial projects.
+# Development
+In addition to my research interests, I am also deeply passionate about software development. I have a strong enthusiasm for distributed system architecture and middleware optimization. I have hands-on experience designing and optimizing production-level systems that handle tens of millions of daily requests. My personal interests include:
+- Efficient Distributed System Architecture: Designing modern, cloud-native systems capable of supporting high concurrency and scalability.
+- System Framework Design: Building highly decoupled system frameworks that provide robust, developer-friendly services for third-party integration.
+I also have extensive project experience in mobile, client-side, and full-stack web development, covering both frontend and backend technologies.
+
+# Reverse
+Lastly, I have a strong interest in reverse engineering and possess extensive practical experience in the field. This includes:
+- JS Obfuscation Reversal: Analyzing and deobfuscating complex obfuscated web JS code.
+- Android Native Code Recovery: Reversing obfuscated native libraries and restoring algorithm logic.
+- Network Traffic Analysis: Capturing and analyzing network packets for protocol understanding and debugging.
 
 # Reach Me
+I’m always happy to connect with anyone interested in my work. Feel free to reach out to me through the following channels:  
 - epicmocn@gmail.com：For connecting.   
-- Blog: [EpicMoHome](https://www.epicmo.cn)  
+- Blog: [EpicMoHome](https://www.epicmo.cn)
 
 # Tools
 
