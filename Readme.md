@@ -7,7 +7,7 @@
 I'm a Grade Third student of WuHan University, pursuing a bachelor's degree.  
 
 # 🌟 Homepage
-New Research home page is under construct.
+New Research home page is under construct :)
 
 # 📚 Research
 I am dedicated to building efficient and reliable distributed deep learning frameworks, with a strong interest in areas such as LLM-based reinforcement learning, agent systems, on-device optimization, and edge computing. My current research focuses on the following areas:
