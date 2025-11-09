@@ -31,6 +31,7 @@ Lastly, I have a strong interest in reverse engineering and possess extensive pr
 I’m always happy to connect with anyone interested in my work. Feel free to reach out to me through the following channels:  
 - epicmocn@gmail.com：For connecting.   
 - Blog: [EpicMoHome](https://www.epicmo.cn)
+- QQ: 1728913755
 
 # 🔧 Tools
 
