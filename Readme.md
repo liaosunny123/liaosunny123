@@ -44,15 +44,15 @@ I love the community of open source and try to contribute. Some icons about the 
 <table>
   <tr>
     <th>
-      <img alt="EpicMo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=liaosunny123&show_icons=true&theme=transparent&hide_border=true" align="center" />
+      <img alt="EpicMo's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=liaosunny123&show_icons=true&theme=transparent&hide_border=true" align="center" />
     </th>
     <th>
-      <img alt="EpicMo's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaosunny123&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
+      <img alt="EpicMo's Top Langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=liaosunny123&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
     </th>
   </tr>
   <tr>
     <td colspan=2>
-      <img alt="EpicMo's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=epicmo&hide_border=true&layout=compact&theme=transparent&custom_title=WorkTimeThisWeek&range=last_7_days" align="center"/>
+      <img alt="EpicMo's Waka Time Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=epicmo&hide_border=true&layout=compact&theme=transparent&custom_title=WorkTimeThisWeek&range=last_7_days" align="center"/>
     </td>
   </tr>
 </table>
