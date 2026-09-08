@@ -4,8 +4,6 @@
 
 ---
 
-I'm a Grade Third student of WuHan University, pursuing a bachelor's degree.  
-
 # 🌟 Homepage
 New Research home page is under construct :)
 
